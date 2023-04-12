@@ -1,16 +1,25 @@
-# samlpe_flutter
+# Anime Info App
+This is a mobile app that provides information about random anime characters. Users can view the character's name, image, and a short bio. The app also includes memorable quotes from popular anime characters like Goku, Naruto Uzumaki, Monkey D. Luffy, Ichigo Kurosaki, and Edward Elric.
 
-A new Flutter project.
+## Features
+- Random anime character generator
+- View character name, image, and bio
+- Memorable quotes from popular anime characters
 
-## Getting Started
+## Installation
+Clone this repository and import into Android Studio or Visual Studio Code:  
+Copy code: ```git clone https://github.com/<username>/<repository>.git```
 
-This project is a starting point for a Flutter application.
+## Usage
+- Launch the app and press the "Random Anime" button to generate a random anime character.
+- View the character's name, image, and bio on the screen.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![image](https://user-images.githubusercontent.com/82305969/231487780-0e08a00c-1918-4ddf-b636-5d5f21389e8f.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Roadmap
+- Add more anime characters and quotes
+- Implement a search feature to search for specific characters
+- Allow users to share characters and quotes on social media
+## Contributing
+Contributions are welcome! Please feel free to fork the repository and submit a pull request.
