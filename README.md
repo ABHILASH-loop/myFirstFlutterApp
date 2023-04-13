@@ -8,7 +8,7 @@ This is a mobile app that provides information about random anime characters. Us
 
 ## Installation
 Clone this repository and import into Android Studio or Visual Studio Code:  
-Copy code: ```git clone https://github.com/<username>/<repository>.git```
+Copy code: ```git clone https://github.com/ABHILASH-loop/myFirstFlutterApp.git```
 
 ## Usage
 - Launch the app and press the "Random Anime" button to generate a random anime character.
